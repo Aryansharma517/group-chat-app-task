@@ -20,8 +20,6 @@ A real-time group chat app using **React Native** (without Expo) and **Socket.IO
 chatapp/
 ├── App.js                 # Main React Native app
 ├── socket.js              # Frontend socket client
-├── tailwind.config.js     # Tailwind setup
-├── babel.config.js        # Required for NativeWind
 ├── server/                # Node.js backend server
 │   └── index.js
 └── README.md
